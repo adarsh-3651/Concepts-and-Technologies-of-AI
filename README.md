@@ -1,0 +1,3 @@
+Dear repository visitors, the above contents are the solutions of Worksheet-0 pdf file which is about python basics revision and Dynamic Programming concept, so before any file review go through the Worsheet-0.
+In this file I have tried to accomplish the listed tasks mentioned in the Worksheet-0 pdf file which would allow my repository visitors to learn the basics of python and understand various contents.
+Among the various topics mentioned in my solutions, I mainly enjoyed the recursion part so I would like to suggest my repo visitors to view through those excercises and enjoy the Dyanamic Programming part. 
